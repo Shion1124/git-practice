@@ -1,2 +1,4 @@
 # git-practice
-Git動画講義練習用
+このリポジトリはGit動画講座用です.
+ローカルリポで変更
+rebase-practiceブランチで更新
